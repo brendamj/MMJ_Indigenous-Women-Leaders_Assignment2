@@ -1,0 +1,103 @@
+
+
+img { 
+    display: inline-block;
+}
+body{background-color:#e2eae2;}
+h1{
+	color:#000;
+	font-size: 85px;
+	font-family:"Impact", Helvetica, sans-serif;
+}
+
+p{
+	color: 
+	font-size:25px;
+	font-family: "Impact", Helvetica, sans-serif; 
+}
+
+#headline{text-align:center; margin: 2em; padding: 1px; font-family:"Impact", Helvetica, sans-serif; }
+
+
+#BertaCaceres{margin: 4em; padding: 4em;}
+
+
+.grid-containerBC {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 5em;
+}
+.grid-container>div {
+  text-align: center;
+  padding:5em;
+  font-size: 30px;
+}
+#fixed-width-berta {width: 560px; height: 315px}  
+
+.item1 {
+  grid-row:1; width: 560px; height: 315px;  
+}
+.item2 {
+grid-row:1;width:10em;
+}
+
+
+
+.grid-containerOA {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 5em;
+}
+.grid-container>div {
+  text-align: center;
+  padding:5em;
+  font-size: 30px;
+}
+#fixed-width-berta {width: 560px; height: 315px}  
+
+.item1-oa{
+  grid-row:1; width: 560px; height: 315px;  
+}
+.item2-oa {
+grid-row:1;width:10em;
+}
+
+
+
+.grid-containerRM {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 5em;
+}
+.grid-container>div {
+  text-align: center;
+  padding:5em;
+  font-size: 30px;
+}
+#fixed-width-berta {width: 560px; height: 315px}  
+
+.item1-rm{
+  grid-row:1; width: 560px; height: 315px;  
+}
+.item2-rm {
+grid-row:1;width:10em;
+}
+
+.grid-containerMA {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  padding: 5em;
+}
+.grid-container>div {
+  text-align: center;
+  padding:5em;
+  font-size: 30px;
+}
+#fixed-width-berta {width: 560px; height: 315px}  
+
+.item1-ma{
+  grid-row:1; width: 560px; height: 315px;  
+}
+.item2-ma {
+grid-row:1;width:10em;
+}
